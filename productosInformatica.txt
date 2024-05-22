@@ -1,0 +1,118 @@
+Laptop, Computadoras, 800.50
+Monitor LED 24'', Periféricos, 150.75
+Teclado mecánico RGB, Periféricos, 100.00
+Disco duro SSD 1TB, Almacenamiento, 120.99
+Memoria RAM 16GB DDR4, Componentes, 80.25
+Mouse inalámbrico ergonómico, Periféricos, 30.50
+Tarjeta gráfica GTX 1660 Super, Componentes, 300.80
+Impresora multifunción WiFi, Periféricos, 200.25
+Auriculares con cancelación de ruido, Accesorios, 150.00
+Router WiFi 6 de doble banda, Redes, 120.49
+Monitor curvo 27, Periféricos, 250.00
+Disco duro externo 2TB, Almacenamiento, 80.75
+Procesador Ryzen 7 5800X, Componentes, 400.00
+Webcam HD 1080p, Accesorios, 50.20
+Altavoces Bluetooth portátiles, Accesorios, 70.90
+Tarjeta madre B550 ATX, Componentes, 150.60
+Kit de limpieza para computadora, Accesorios, 20.00
+Mochila para laptop de 15 pulgadas, Accesorios, 40.30
+Kit de iluminación LED RGB para PC, Accesorios, 60.75
+Fuente de poder 750W 80+ Gold, Componentes, 120.40
+Disco duro externo 4TB, Almacenamiento, 180.25
+SSD NVMe 500GB, Almacenamiento, 90.50
+Tarjeta de memoria microSD 128GB, Almacenamiento, 35.75
+Monitor 4K 32'', Periféricos, 350.00
+Impresora láser monocromática, Periféricos, 180.00
+Teclado inalámbrico Bluetooth, Periféricos, 60.99
+Mouse gaming con luces LED, Periféricos, 45.25
+Kit de altavoces 2.1, Periféricos, 80.75
+Cámara web 4K con micrófono, Accesorios, 100.50
+Micrófono condensador USB, Accesorios, 70.00
+Base de refrigeración para laptop, Accesorios, 25.25
+Silla ergonómica para gaming, Muebles, 250.00
+Escritorio para computadora, Muebles, 180.75
+Licencia de software antivirus, Software, 50.50
+Licencia de Microsoft Office 365, Software, 99.00
+Auriculares gaming con sonido envolvente, Accesorios, 120.25
+Cable HDMI 4K de alta velocidad, Cables y Adaptadores, 15.50
+UPS 1000VA para protección eléctrica, Componentes, 150.00
+Kit de herramientas para reparación de computadoras, Accesorios, 40.75
+Lámpara LED para escritorio, Accesorios, 30.99
+Funda protectora para laptop 15'', Accesorios, 20.50
+Memoria RAM 32GB DDR4 3200MHz, Componentes, 160.00
+Disco duro externo SSD 2TB, Almacenamiento, 250.75
+Procesador Intel Core i9-12900K, Componentes, 550.00
+Tarjeta gráfica RTX 3080 Ti, Componentes, 1200.00
+Monitor ultrawide 34'' curvo, Periféricos, 500.50
+Teclado mecánico compacto, Periféricos, 85.25
+Mouse vertical ergonómico, Periféricos, 40.75
+Adaptador USB-C a HDMI, Cables y Adaptadores, 20.50
+Switch de red Gigabit de 8 puertos, Redes, 70.00
+Router gaming con QoS, Redes, 180.25
+Cable de red Ethernet Cat 7 10m, Cables y Adaptadores, 25.50
+Estación de trabajo Docking Station USB-C, Accesorios, 120.00
+Módulo de expansión de almacenamiento NAS, Redes, 200.75
+Licencia de software de edición de video, Software, 299.00
+Licencia de Windows 11 Pro, Software, 189.99
+Maletín para laptop 17'', Accesorios, 35.50
+Kit de auriculares, Accesorios, 90.75
+Monitor portátil USB-C 15.6'', Periféricos, 200.00
+Teclado retroiluminado RGB, Periféricos, 120.25
+Ratón inalámbrico recargable, Periféricos, 50.00
+Tarjeta de sonido externa USB, Componentes, 45.75
+Hub USB 3.0 de 7 puertos, Cables y Adaptadores, 30.50
+Caja de PC ATX con ventana, Componentes, 80.00
+Ventilador RGB para gabinete de PC, Componentes, 25.25
+Filtro de privacidad para monitor 24'', Accesorios, 40.75
+Almohadilla de gel ergonómica para mouse, Accesorios, 15.99
+Adaptador Bluetooth USB, Cables y Adaptadores, 10.50
+Cable de alimentación para PC 1.5m, Cables y Adaptadores, 5.25
+SSD M.2 NVMe 1TB, Almacenamiento, 180.00
+Disco duro externo 6TB, Almacenamiento, 300.50
+Tarjeta de memoria SDXC 256GB, Almacenamiento, 70.25
+Monitor táctil 22'', Periféricos, 280.75
+Impresora de tinta a color, Periféricos, 120.00
+Teclado ergonómico con reposamuñecas, Periféricos, 75.50
+Ratón óptico para gaming, Periféricos, 55.25
+Barra de sonido para PC, Periféricos, 90.75
+Webcam Full HD con micrófono integrado, Accesorios, 60.00
+Soporte ajustable para monitor, Accesorios, 35.25
+Micrófono de estudio profesional, Accesorios, 150.50
+Silla ergonómica de oficina, Muebles, 220.00
+Escritorio para gaming con RGB, Muebles, 350.75
+Licencia de software de diseño gráfico, Software, 399.00
+Licencia de antivirus premium, Software, 80.99
+Auriculares inalámbricos con cancelación de ruido, Accesorios, 180.25
+Cable DisplayPort 1.4 2m, Cables y Adaptadores, 25.50
+Fuente de poder modular 850W 80+ Gold, Componentes, 180.00
+Kit de herramientas profesionales para PC, Accesorios, 55.75
+Lámpara LED inteligente con control remoto, Accesorios, 45.99
+Mochila antirrobo para laptop 13'', Accesorios, 50.50
+Memoria RAM 64GB DDR4 3600MHz, Componentes, 320.00
+Disco duro externo SSD 4TB, Almacenamiento, 450.75
+Procesador AMD Ryzen 9 5900X, Componentes, 650.00
+Tarjeta gráfica RTX 3090, Componentes, 2000.00
+Monitor gaming 27'' QHD 144Hz, Periféricos, 550.50
+Teclado retroiluminado mecánico, Periféricos, 120.25
+Ratón vertical ergonómico inalámbrico, Periféricos, 65.75
+Adaptador USB-C a Ethernet Gigabit, Cables y Adaptadores, 20.50
+Switch de red PoE+ de 16 puertos, Redes, 300.00
+Router mesh WiFi 6 de triple banda, Redes, 350.25
+Cable HDMI 8K de alta velocidad 2m, Cables y Adaptadores, 30.50
+Docking Station Thunderbolt 4, Accesorios, 250.00
+NAS de 4 bahías para almacenamiento en red, Redes, 600.75
+Licencia de software de edición de audio, Software, 249.00
+Licencia de Windows 11 Home, Software, 129.99
+Maletín ejecutivo para laptop 15.6'', Accesorios, 55.50
+Kit de auriculares y micrófono profesionales, Accesorios, 120.75
+Monitor portátil USB-C 17'', Periféricos, 250.00
+Teclado mecánico compacto RGB, Periféricos, 100.25
+Ratón inalámbrico vertical recargable, Periféricos, 70.00
+Tarjeta de sonido externa USB-C, Componentes, 75.75
+Hub USB 3.0 de 10 puertos con alimentación, Cables y Adaptadores, 45.50
+Caja de PC mini-ITX con ventana y RGB, Componentes, 120.00
+Ventilador de torre para PC con RGB, Componentes, 35.25
+Filtro de privacidad para monitor 27'', Accesorios, 50.75
+Almohadilla de gel ergonómica para teclado, Accesorios, 20.99
+Adaptador Bluetooth 5.0 USB, Cables y Adaptadores, 15.50
+Cable de alimentación para monitor 2m, Cables y Adaptadores, 10.25
